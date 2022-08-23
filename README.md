@@ -2,6 +2,47 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### React Journey Roadmapgit 
+- Setup the project 
+  - package mangers 
+  - create react app
+  - understanding react structure
+  - understading jsx
+- Components
+  - grommet components
+  - grommet designer
+  - grommet storybook
+  - breaking down the components into boxes
+  - props 
+- States
+  - what are states?
+  - how to create states?
+  - when to create
+  - managing states (update)
+  - passing states to components
+  - Lifecyle methods (useState,userEffect)
+
+- Context in React
+  - what is Context Provider
+  - when to use context provider
+- Routing 
+ - Routers
+ - Link
+ - nested Routing
+- Hooks
+  - useState
+  - useEffect
+  - useContext
+  - useReducer
+  - useRef
+  - useImperativeHandle
+  - useLayoutEffect
+  - useCallback
+  - useMemo
+  - useDebugValue
+
+- API fetching
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -68,3 +109,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
